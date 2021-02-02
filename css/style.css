@@ -1,0 +1,212 @@
+
+body{
+background: #d1def1;
+font-family: Verdana;
+width: 900px;
+margin: auto;
+}
+
+.photo{
+    border-radius: 500px;
+    border: 1px solid #505050;
+    width: 15%;
+}
+#titulo, .subtittle, .post_tittle {
+    color: #293577;
+}
+
+#titulo {
+    font-size: 30px;
+}
+
+.subtittle {
+    margin-top: -20px;
+    font-size: 15px;
+    margin-bottom: 30px;
+}
+
+.blocogmail{
+    height: 50px;
+    text-align: justify;
+    display: flex;
+}
+
+.icone{
+    height: 25px;
+    width: 25px;
+    display: block; 
+    margin: 10px;
+}
+
+.email{
+   text-decoration: none;
+   color: black;
+   margin: 15px; 
+}
+
+.icone2{
+    height: 25px;
+    width: 25px;
+    display: block;
+    margin: 10px;
+}
+
+h5, .gmail, .link{
+    margin-top: auto;
+    text-decoration: none;
+    color: #505050;
+    margin-bottom: 0px;
+    margin-left: -20px;
+    font-weight: 100;
+}
+
+ul {
+    margin-left: auto;
+}
+
+.ET {
+    margin-left: auto;
+    margin-top: auto;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+.post_tittle{
+    font-size: 25px;
+    text-decoration:  underline;
+    margin: 0px;
+    margin-bottom: 15px;
+}
+
+.post {
+    background: #ffffff;
+    padding: 15px;
+    border: 3px solid #505050;
+    margin-bottom: 15px;
+    border-radius: 20px 5px 20px 5px;
+}
+
+.qualificacao_content {
+    margin: 0px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    font-size: 20px;
+    text-align: left;
+}
+
+.ET_content {
+    font-size: 20px;
+    text-align: left;
+}
+
+.ET_data {
+    margin-left: auto;
+    margin-top: auto;
+    margin-bottom: 10px;
+    font-size: 15px;
+    font-weight: 100;
+    color: #505050;
+}
+
+.ET_topic1 {
+    margin: 0px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    font-size: 20px;
+    text-align: left;
+}
+
+.ET_topic2{
+    margin: 0px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    font-size: 20px;
+    text-align: left;
+}
+
+.ET2 {
+    margin-left: auto;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+.ET_data2 {
+    margin-left: auto;
+    margin-top: auto;
+    margin-bottom: 10px;
+    font-size: 15px;
+    font-weight: 100;
+    color: #505050;
+}
+
+.ET_content2 {
+    font-size: 20px;
+    text-align: left;
+}
+
+.ET_topic3 {
+    margin: 0px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    font-size: 20px;
+    text-align: left;
+}
+
+.ET_topic4 {
+    margin: 0px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    font-size: 20px;
+    text-align: left;
+}
+
+.EA {
+    margin-left: auto;
+    margin-top: auto;
+    margin-bottom: 10px;
+    font-size: 20px;
+    color: #505050;  
+}
+
+.EA1 {
+    margin-left: auto;
+    margin-top: auto;
+    margin-bottom: 10px;
+    font-size: 20px;
+    color: #505050;  
+    font-weight: 100;
+}
+
+.ET_date{
+    margin-left: auto;
+    margin-top: 40px;
+    margin-bottom: 10px;
+    font-size: 20px;
+    color: #505050;
+}
+
+.linklogo {
+    width: 50px;
+    margin-left: -40px;
+}
+
+.gmaillogo {
+    width: 50px;
+    margin-left: -20px;
+}
+
+.post_image{
+    margin-bottom: 15px;
+    width: 100%;
+}
+
+.contacts_list{
+    list-style-type: none;
+    margin-left: auto;
+    font-size: 25px;
+}
+
+.contacts_list li a {
+    text-decoration: none;
+}
